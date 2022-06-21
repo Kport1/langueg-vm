@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\dev\C\langueg-vm
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\dev\C\langueg-vm
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/dev/C/langueg-vm/cmake-build-debug
